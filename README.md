@@ -19,7 +19,7 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](#license)
+
 
 ## 📖 About the Project <a name="about-project"></a>
 
@@ -73,7 +73,8 @@ npm start
 Open http://localhost:5500in your browser.
 
 👥 Authors <a name="authors"></a>
-👤 Your Name: Ahmed
+
+👤 : Ahmed
 
 GitHub: @m00h0
 
@@ -91,9 +92,3 @@ Feel free to check the [issues page](https://github.com/m00h0//issues).
 Give a ⭐️ if you like this project!
 
 🙏 Acknowledgements <a name="acknowledgements"></a>
-
-
-
-📝 License <a name="license"></a>
-
-```
