@@ -27,6 +27,10 @@ Joke Teller is a web application that fetches programming jokes from an API and 
 
 ### 🛠 Built With <a name="built-with"></a>
 
+- HTML: For structuring the web page.
+- CSS: For styling the web page.
+- JavaScript: For fetching jokes from the API and handling text-to-speech functionality.
+
 #### Tech Stack <a name="tech-stack"></a>
 
 - HTML
