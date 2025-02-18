@@ -23,7 +23,7 @@
 
 ## 📖 About the Project <a name="about-project"></a>
 
-
+Joke Teller is a web application that fetches programming jokes from an API and reads them aloud to the user. This project is built using HTML, CSS, and JavaScript, and leverages the VoiceRSS API for text-to-speech functionality. The application provides a fun and interactive way to hear jokes, making it a great tool for developers who need a quick laugh during their coding sessions.
 
 ### 🛠 Built With <a name="built-with"></a>
 
