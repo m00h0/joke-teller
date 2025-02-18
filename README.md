@@ -105,3 +105,5 @@ Feel free to check the [issues page](https://github.com/m00h0/joke-teller/issues
 Give a ⭐️ if you like this project!
 
 🙏 Acknowledgements <a name="acknowledgements"></a>
+
+Thanks to the developers of the JokeAPI and VoiceRSS for their amazing services and it's free for using to anyone.
