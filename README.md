@@ -45,7 +45,7 @@ Joke Teller is a web application that fetches programming jokes from an API and 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Coming Soon!
+- [Live Demo](https://m00h0.github.io/joke-teller)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
