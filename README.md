@@ -53,18 +53,22 @@ To get a local copy up and running, follow these steps:
 
 ### Prerequisites <a name="prerequisites"></a>
 
+- Node.js installed on your machine.
 
 ### Setup <a name="setup"></a>
 
-```
+Clone this repository to your desired folder:
 
+```
+git clone https://github.com/m00h0/joke-teller.git
 
 ```
 Install <a name="install"></a>
 
-
+Install the necessary dependencies:
 
 ```
+npm install
 
 ```
 
@@ -86,6 +90,9 @@ GitHub: @m00h0
 
 🔭 Future Features <a name="future-features"></a>
 
+- Add more categories of jokes.
+- Improve the UI/UX.
+- Add support for multiple languages.
 
 ## 🤝 Contributing <a name="contributing"></a>
 
