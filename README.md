@@ -39,7 +39,9 @@ Joke Teller is a web application that fetches programming jokes from an API and 
 
 #### Key Features <a name="key-features"></a>
 
-
+- Fetch Jokes: Retrieves programming jokes from the JokeAPI.
+- Text-to-Speech: Uses the VoiceRSS API to read the jokes aloud.
+- Interactive UI: A button to fetch and hear a new joke.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
